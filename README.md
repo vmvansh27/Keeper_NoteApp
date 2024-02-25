@@ -2,6 +2,10 @@
 
 Keeper is a simple note-taking app built with React Native. It allows users to create, view, and delete notes. Notes can be encrypted for privacy and decrypted using a password.
 
+## Working
+
+https://github.com/vmvansh27/Keeper_NoteApp/assets/81684136/879527ba-f2ce-4144-b5f6-04757eff9944
+
 ## Features
 
 - Create new notes with titles and content
