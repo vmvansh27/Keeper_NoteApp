@@ -23,7 +23,7 @@ To run the MyNotes app locally, follow these steps:
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/your-username/Keeper.git
+git clone https://github.com/vmvansh27/Keeper.git
 
 2.Navigate to the project directory:
 
